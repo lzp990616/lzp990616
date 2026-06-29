@@ -8,10 +8,11 @@ Ph.D. student in **Artificial Intelligence** at the [Graduate School of Science 
 
 ---
 
+
 ### 🔭 Selected Research
 
-- **Dilated dendritic learning of global–local feature representation for medical image segmentation** — *Expert Systems with Applications*, 2025 (Open Access)
-- **Dendritic deep learning for medical segmentation** — *IEEE/CAA Journal of Automatica Sinica*, 2024 → see [`DDNet`](https://github.com/lzp990616/DDNet)
+- **Dilated dendritic learning of global–local feature representation for medical image segmentation** — *Expert Systems with Applications*, 2025 · [📄 Paper](https://doi.org/10.1016/j.eswa.2024.125874)
+- **Dendritic deep learning for medical segmentation** — *IEEE/CAA Journal of Automatica Sinica*, 2024 · [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10433406) · [💻 Code](https://github.com/lzp990616/DDNet)
 
 ### 📌 Featured Repositories
 
