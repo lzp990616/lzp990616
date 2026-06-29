@@ -34,6 +34,7 @@ and to bring them from research into real-world use.
 | --- | --- |
 | [DDNet](https://github.com/lzp990616/DDNet) | Dendritic deep learning for medical segmentation (IEEE/CAA JAS 2024) |
 | [Segment_dnm](https://github.com/lzp990616/Segment_dnm) | Dendritic kernel CNN for breast ultrasound segmentation (IEEE TSMC 2025) |
+| [3DL-Net](https://github.com/lzp990616/3DL-Net) | Dilated dendritic learning for medical image segmentation (ESA 2025) |
 | [Classfication_dnm](https://github.com/lzp990616/Classfication_dnm) | Dendritic-learning-based image classification |
 
 ## Links
