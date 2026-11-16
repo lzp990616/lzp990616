@@ -8,6 +8,8 @@ Medical Image Analysis &nbsp; / &nbsp; Dendritic Learning &nbsp; / &nbsp; Python
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=2r4K18sAAAAJ) &nbsp; · &nbsp; [Research Lab](https://toyamaailab.github.io/)
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.kernel.org/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
 </div>
 
 ## About
