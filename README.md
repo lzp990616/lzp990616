@@ -1,46 +1,55 @@
-# Zhipeng Liu （劉 志鵬）
+<div align="center">
 
-Ph.D. Student in Artificial Intelligence
-Graduate School of Science and Engineering, University of Toyama, Japan
+# Zhipeng Liu · 劉 志鵬
 
----
+**Ph.D. Student · University of Toyama, Japan**
+
+Medical Image Analysis &nbsp; / &nbsp; Dendritic Learning &nbsp; / &nbsp; Python & PyTorch
+
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=2r4K18sAAAAJ) &nbsp; · &nbsp; [Research Lab](https://toyamaailab.github.io/)
+
+</div>
 
 ## About
 
-Deep learning researcher focusing on **medical image analysis** and **dendritic learning** —
-designing biologically-inspired neuron models and validating them across
-classification, detection, and segmentation tasks.
+I am a doctoral student in the Graduate School of Science and Engineering at the University of Toyama. My research explores how biologically inspired dendritic models can improve deep learning for medical image analysis.
 
-My goal is to build effective and interpretable deep learning methods,
-and to bring them from research into real-world use.
+I develop models in Python and PyTorch and work on data preparation, training, comparative evaluation and visualization. I also collaborate with fellow researchers on experiment design, code and publications.
 
-## Research
+## Technical Focus
 
-- **Dilated dendritic learning of global–local feature representation for medical image segmentation**
-  Expert Systems with Applications, 2025 (Open Access) — *first author*
-  [Paper](https://doi.org/10.1016/j.eswa.2024.125874)
+- **Model development:** medical image segmentation, classification and dendritic learning
+- **Data and experiments:** Python, NumPy, pandas, Matplotlib and comparative evaluation
+- **Development tools:** PyTorch, Linux and Git
 
-- **Dendritic deep learning for medical segmentation**
-  IEEE/CAA Journal of Automatica Sinica, 2024 — *first author*
-  [Paper](https://ieeexplore.ieee.org/abstract/document/10433406) ・ [Code](https://github.com/lzp990616/DDNet)
+## Selected Research and Code
 
-- **Dendritic kernel convolutional neural network for breast ultrasound images segmentation**
-  IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025 — *co-author*
-  [Paper](https://ieeexplore.ieee.org/document/11203775) ・ [Code](https://github.com/lzp990616/Segment_dnm)
+### 3DL-Net
 
-## Repositories
+**Medical image segmentation with global and local feature learning**
 
-| Repository | Description |
-| --- | --- |
-| [DDNet](https://github.com/lzp990616/DDNet) | Dendritic deep learning for medical segmentation (IEEE/CAA JAS 2024) |
-| [3DL-Net](https://github.com/lzp990616/3DL-Net) | Dilated dendritic learning for medical image segmentation (ESA 2025) |
-| [Segment_dnm](https://github.com/lzp990616/Segment_dnm) | Dendritic kernel CNN for breast ultrasound segmentation (IEEE TSMC 2025) |
+Combines dilated convolutions with a dendritic neuron module. The repository includes model code, k-fold training, comparative experiments and prediction scripts.
 
-## Links
+*Expert Systems with Applications, 2025 · First author*
 
-- Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=2r4K18sAAAAJ
-- Lab: https://toyamaailab.github.io/
+[Read the paper](https://doi.org/10.1016/j.eswa.2024.125874) &nbsp; · &nbsp; [Explore the code →](https://github.com/lzp990616/3DL-Net)
 
----
+### DDNet
 
-Python ・ PyTorch ・ Deep Learning ・ Medical Image Analysis
+**Dendritic deep learning for medical segmentation**
+
+Research on dendritic learning for medical image segmentation, with accompanying implementation.
+
+*IEEE/CAA Journal of Automatica Sinica, 2024 · First author*
+
+[Read the paper](https://ieeexplore.ieee.org/abstract/document/10433406) &nbsp; · &nbsp; [Explore the code →](https://github.com/lzp990616/DDNet)
+
+### Dendritic Kernel CNN
+
+**Breast ultrasound image segmentation**
+
+Collaborative research on dendritic kernel convolutional neural networks for breast ultrasound images.
+
+*IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025 · Co-author*
+
+[Read the paper](https://ieeexplore.ieee.org/document/11203775) &nbsp; · &nbsp; [Explore the code →](https://github.com/lzp990616/Segment_dnm)
